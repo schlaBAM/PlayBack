@@ -13,6 +13,7 @@
 		A939E7731F7F49C000CF8900 /* PlayBack.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A939E7711F7F49C000CF8900 /* PlayBack.xcdatamodeld */; };
 		A939E7751F7F49C000CF8900 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A939E7741F7F49C000CF8900 /* Assets.xcassets */; };
 		A939E7781F7F49C000CF8900 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A939E7761F7F49C000CF8900 /* LaunchScreen.storyboard */; };
+		A939E7801F7F4B5B00CF8900 /* RecordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A939E77F1F7F4B5B00CF8900 /* RecordVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A939E7741F7F49C000CF8900 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A939E7771F7F49C000CF8900 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A939E7791F7F49C000CF8900 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A939E77F1F7F4B5B00CF8900 /* RecordVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A939E76A1F7F49C000CF8900 /* AppDelegate.swift */,
 				A939E76C1F7F49C000CF8900 /* ViewController.swift */,
 				A939E76E1F7F49C000CF8900 /* Main.storyboard */,
+				A939E77F1F7F4B5B00CF8900 /* RecordVC.swift */,
 				A939E7741F7F49C000CF8900 /* Assets.xcassets */,
 				A939E7761F7F49C000CF8900 /* LaunchScreen.storyboard */,
 				A939E7791F7F49C000CF8900 /* Info.plist */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A939E76D1F7F49C000CF8900 /* ViewController.swift in Sources */,
+				A939E7801F7F4B5B00CF8900 /* RecordVC.swift in Sources */,
 				A939E76B1F7F49C000CF8900 /* AppDelegate.swift in Sources */,
 				A939E7731F7F49C000CF8900 /* PlayBack.xcdatamodeld in Sources */,
 			);
